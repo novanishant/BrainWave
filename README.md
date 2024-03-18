@@ -6,15 +6,18 @@
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Links](#links)
-6. 🚀 [More](#more)
+2. 🔗 [Links](#links)
+3. ⚙️ [Tech Stack](#tech-stack)
+4. 🔋 [Features](#features)
+5. 🤸 [Quick Start](#quick-start)
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+
+## <a name="links">🔗 Links</a>
+
+- [Live Website](https://brain-wave-phi.vercel.app/)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -73,6 +76,4 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="links">🔗 Links</a>
 
-- [Live Website](https://brain-wave-phi.vercel.app/)
